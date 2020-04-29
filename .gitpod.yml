@@ -1,0 +1,6 @@
+vscode:
+  extensions:
+    - ms-vscode.cpptools@0.26.2:Pq/tmf2WN3SanVzB4xZc1g==
+    - ryu1kn.partial-diff@1.4.1:a/nnA3Dp2+Bai+u2GS4uNw==
+image:
+  file: .gitpod.Dockerfile
