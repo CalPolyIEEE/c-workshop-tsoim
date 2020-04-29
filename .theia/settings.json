@@ -1,0 +1,10 @@
+{
+    "editor.autoSave": "on",
+    "workbench.colorTheme": "dark",
+    "editor.insertSpaces": true,
+    "editor.lineNumbers": "on",
+    "editor.minimap.enabled": true,
+    "editor.rulers": [80],
+    "editor.formatOnPaste": true,
+    "editor.tabSize": 3
+}
